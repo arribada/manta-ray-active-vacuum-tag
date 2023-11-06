@@ -10,8 +10,30 @@ The design specification of the payload was to primarily generate a vaccum under
 
 Early iterations of the design utilised a modified commerical vaccum cup insert, with an attempt to reduce total weight made by milling away surface metal of the internal disk. Ultimately the overall weight and need to include additional syntactic foam to increase buoyancy required a custom ABS insert to be CNC milled instead, replacing the metal off-the-shelf variant. An example of a typical commercial vaccum cup insert with vaccum socket has been provided below. Typically, the weight of a vaccum cup insert is not a defining factor if used in a vaccum assembly line, however in our case the weight needed to be reduced significantly.
 
-![mechanical_vaccum_insert](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/1071600a-6d83-461d-8dc3-ad83ddb32f81)#
+![mechanical_vaccum_insert](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/1071600a-6d83-461d-8dc3-ad83ddb32f81)
 
-To further reduce the overall weight and increase buoyancy of our custom ABS vaccum cup insert we milled away the internal cavity and filled it with pre-cut syntactic foam, essentially creating a positively buoyant vaccum insert that would hold a  
+To further reduce the overall weight and increase buoyancy of our custom ABS vaccum cup insert we milled away the internal cavity and filled it with pre-cut syntactic foam, essentially creating a positively buoyant vaccum insert that would replace the commerical off the shelf variant.
+
+![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/64efab61-bb60-437e-abba-72799c4fda11)
+
+#
+
+![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/724b518a-190d-4bf2-88e8-f1b08b3be5be)
+
+#
+
+![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/ede2a2b6-d2db-44d8-a66f-d85246c28b99)
+
+#
+
+![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/70bb4b57-a766-4120-9486-88b3ad045970)
+
+#
+
+
+
+
+
+
 
 
