@@ -43,7 +43,7 @@ The image below details the assembly of the body. Accu stainless steel M3 screws
 
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/570afa8d-255b-48c4-9ef0-5f171b59c605)
 
-A complete bill of materials is available here to reconstruct the tag. It should be possible to replicate the tag with access to a 3D printer, 3-axis CNC machine and a basic workbench to aid tapping the threads and installing the air hose coupler.
+A complete bill of materials is available [here](https://github.com/arribada/manta-ray-active-vacuum-tag/tree/main/Hardware) to reconstruct the tag. It should be possible to replicate the tag with access to a 3D printer, 3-axis CNC machine and a basic workbench to aid tapping the threads and installing the air hose coupler.
 
 It's important to use a stainless steel Prevost coupler vs the standard variant as the ball-bearings inside the coupler are brass vs stainless steel and will rust over time when exposed to salt water. The image below shows a Prevost coupler attached to the tag. The green button can be pressed with a single hand when in the water to detach the coupler after air has been removed using a venturi inline in the airhose. We used an Air Engineering Controls Ltd Vacuum Pump, 19.1mm nozzle , 847mbar 3398L/min venturi connected to a standard compressed air scuba tank. 
 
