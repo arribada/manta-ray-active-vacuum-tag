@@ -45,6 +45,17 @@ It's important to use a stainless steel Prevost coupler vs the standard variant 
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/dafd4b76-2c17-4042-8482-f6b6579ad596)
 
 A pole attachment method using a modified bike break to depress the green button remotely is currently being design. This will enable the tag to be attached to manta rays from a boat within a few meters.
+
+## Continued research ##
+
+We are continuing to explore the material properties of the nitrile rubber in comparison to other vaccum cup materials, notably ClingTech vaccum cups that we believe may enhance the longevity of attachments. To date this tag design has achieved a 4 hour attachment, with a goal to exceed 24 hours as the design is further enhanced. An internal Arribada Horizon Argos ARTIC R2 transmitter can also be loaded into the tag to enable recovery of the tag in the open ocean using Argos satellite telemetry (doppler).
+
+Once completed and tested, the final pole attachment design will be uploaded to this repo to aid attachment. 
+
+### Pole attachment design ###
+
+![manta_ray_pole_102_jpeg](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/5c9360f1-87f2-42c4-b52e-396013209922)
+
  
 
 
