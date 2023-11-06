@@ -32,6 +32,22 @@ The FiPA nitrile rubber vaccum cup we selected is designed for stacking partiall
 
 ## Preparing the multi-jet fusion 3D printed body ##
 
+The body of the tag is constructed in two halves (all STEP files are available in the hardware folder of this repo). The material used is PA 12, using either selective laser sintering (SLS) or multi-jet fusion 3D printing processes to form the body. PA 12 is porous, but as we are attaching payloads seperately we don't need to worry about water ingress - instead the body forms a hydrodynamic structure in which to hold the payloads, syntactic foam and push water over the air hose coupler in the centre to minimise drag. 
+
+The image below details the assembly of the body. Accu stainless steel M3 screws (50mm and 30mm) are used to attach the 3D printed body to the CNC milled ABS vaccum cup insert / base. Foam is cut and place in the internal cavity. Based on your choice of payload (weight), the foam can be removed or topped up as necessary to balance the tag and provide a slight amount of positive buoyancy. 
+
+![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/570afa8d-255b-48c4-9ef0-5f171b59c605)
+
+A complete bill of materials is available here to reconstruct the tag. It should be possible to replicate the tag with access to a 3D printer, 3-axis CNC machine and a basic workbench to aid tapping the threads and installing the air hose coupler.
+
+It's important to use a stainless steel Prevost coupler vs the standard variant as the ball-bearings inside the coupler are brass vs stainless steel and will rust over time when exposed to salt water. The image below shows a Prevost coupler attached to the tag. The green button can be pressed with a single hand when in the water to detach the coupler after air has been removed using a venturi inline in the airhose. We used an Air Engineering Controls Ltd Vacuum Pump, 19.1mm nozzle , 847mbar 3398L/min venturi connected to a standard compressed air scuba tank. 
+
+![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/dafd4b76-2c17-4042-8482-f6b6579ad596)
+
+A pole attachment method using a modified bike break to depress the green button remotely is currently being design. This will enable the tag to be attached to manta rays from a boat within a few meters.
+ 
+
+
 
 
 
