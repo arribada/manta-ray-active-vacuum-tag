@@ -1,5 +1,7 @@
 # manta-ray-active-vacuum-tag
 
+![manta_tag](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/136ec232-e82c-4b59-bbe8-06c49197a670)
+
 ## About ##
 This repository details ongoing research and development work by [Arribada](https://arribada.org) to develop an active vaccum (suction) cup tag, primarily to provide a non-invasive means of attaching scientific instruments to oceanic manta rays i.e accelerometers, video cameras or other instruments to advance scientific research.
 
