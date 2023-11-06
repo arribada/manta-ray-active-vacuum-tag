@@ -11,7 +11,7 @@ This repository details ongoing research and development work by [Arribada](http
 ## Description ##
 The design specification of the payload was to primarily generate a vaccum underwater, removing water and air trapped within a vaccum cup when applied to the surface of a target animal quickly and efficiently. To achieve this, the payload itself needed to be slightly positively buoyant to aid recovery after being a) mechanically vented through the use of a corrodable plug to fill the vaccum with water and thus detach, or b) retained in place via a watertight / airtight seal until otherwise vented via a mechanical process.
 
-Once on the surface, the tail of the tag should point towards the sky as it is the lightest part of the instrument. The base remains in the water carrying the payloads, exposing the whip antenna in the tail and allowing recovery by VHF (pinger) or Argos telemetry using an embedded [Arribada Horizon satellite transmitter] (https://arribada.org/product/arribada-horizon-artic-r2-developers-kit/).
+Once on the surface, the tail of the tag should point towards the sky as it is the lightest part of the instrument. The base remains in the water carrying the payloads, exposing the whip antenna in the tail and allowing recovery by VHF (pinger) or Argos telemetry using an embedded [Arribada Horizon satellite transmitter](https://arribada.org/product/arribada-horizon-artic-r2-developers-kit/).
 
 Early iterations of the design utilised a modified commerical vaccum cup insert, with an attempt to reduce total weight made by milling away surface metal of the internal disk. Ultimately the overall weight and need to include additional syntactic foam to increase buoyancy required a custom ABS insert to be CNC milled instead, replacing the metal off-the-shelf variant. An example of a typical commercial vaccum cup insert with vaccum socket has been provided below. Typically, the weight of a vaccum cup insert is not a defining factor if used in a vaccum assembly line, however in our case the weight needed to be reduced significantly.
 
@@ -43,7 +43,7 @@ The image below details the assembly of the body. Accu stainless steel M3 screws
 
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/570afa8d-255b-48c4-9ef0-5f171b59c605)
 
-A complete bill of materials is available here to reconstruct the tag. It should be possible to replicate the tag with access to a 3D printer, 3-axis CNC machine and a basic workbench to aid tapping the threads and installing the air hose coupler.
+A complete bill of materials is available [here](https://github.com/arribada/manta-ray-active-vacuum-tag/tree/main/Hardware) to reconstruct the tag. It should be possible to replicate the tag with access to a 3D printer, 3-axis CNC machine and a basic workbench to aid tapping the threads and installing the air hose coupler.
 
 It's important to use a stainless steel Prevost coupler vs the standard variant as the ball-bearings inside the coupler are brass vs stainless steel and will rust over time when exposed to salt water. The image below shows a Prevost coupler attached to the tag. The green button can be pressed with a single hand when in the water to detach the coupler after air has been removed using a venturi inline in the airhose. We used an Air Engineering Controls Ltd Vacuum Pump, 19.1mm nozzle , 847mbar 3398L/min venturi connected to a standard compressed air scuba tank. 
 
