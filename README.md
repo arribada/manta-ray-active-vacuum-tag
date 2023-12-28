@@ -49,7 +49,14 @@ It's important to use a stainless steel Prevost coupler vs the standard variant 
 
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/dafd4b76-2c17-4042-8482-f6b6579ad596)
 
-A pole attachment method using a modified bike break to depress the green button remotely is currently being design. This will enable the tag to be attached to manta rays from a boat within a few meters.
+A pole attachment method using a modified bike break to depress the green button remotely is currently being design. This will enable the tag to be attached to manta rays from a boat within a few meters. Preparation of the current design has been described below.
+
+## Preparing the multi-jet fusion 3D printed pole mount head ##
+
+Print the pole head mount (see BOM) using MJF as the process and PA 11 as the material. PA 12 should also be suitable. Once printed, use a tapping kit to manually tag the top hole using an M9 x 1.25 tapping bit. Next, 
+
+![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/735b4dfc-aba2-4b41-ae69-344309b92570)
+
 
 ## Continued research ##
 
