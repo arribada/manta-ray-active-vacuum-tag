@@ -53,9 +53,13 @@ A pole attachment method using a modified bike break to depress the green button
 
 ## Preparing the multi-jet fusion 3D printed pole mount head ##
 
-Print the pole head mount (see BOM) using MJF as the process and PA 11 as the material. PA 12 should also be suitable. Once printed, use a tapping kit to manually tag the top hole using an M9 x 1.25 tapping bit. Next, 
+Print the pole head mount (see BOM) using MJF as the process and PA 11 as the material. PA 12 should also be suitable. Once printed, use a tapping kit to manually tag the top hole using an M9 x 1.25 tapping bit. Next, insert a 1/4" female screw adapter into the socket using pliers. 
 
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/735b4dfc-aba2-4b41-ae69-344309b92570)
+
+A stainless steel 360 degree swivel camera mount adapter can then be attached to the pole mount head and to a suitable telescopic boom pole that has a 1/4" thread embedded, such as the range of fiberglass poles from compositepoles.co.uk.
+
+
 
 
 ## Continued research ##
