@@ -59,8 +59,7 @@ Print the pole head mount (see BOM) using MJF as the process and PA 11 as the ma
 
 A stainless steel 360 degree swivel camera mount adapter can then be attached to the pole mount head and to a suitable telescopic boom pole that has a 1/4" thread embedded, such as the range of fiberglass poles from compositepoles.co.uk.
 
-
-
+To fit and seat the bicycle brakes, first slot the Prevost S1 coupler into the pole head slot. Use the grip indents to guide it into place. Then slow the two M8 x 60mm socket flanged button screws through the bottom holes and secure the brakes in place using 4 x M8 hexagon nuts to align the brake in place.
 
 ## Continued research ##
 
