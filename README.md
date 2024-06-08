@@ -5,6 +5,9 @@
 ## About ##
 This repository details ongoing research and development work by [Arribada](https://arribada.org) to develop an active vaccum (suction) cup tag, primarily to provide a non-invasive means of attaching scientific instruments to oceanic manta rays i.e accelerometers, video cameras or other instruments to advance scientific research conducted by the [Bureau of Ocean Energy Management](https://www.boem.gov/).
 
+## Licencing ##
+All hardware designs, files, assets and schematics in this repository are licenced under CERN OHL v1.2. Documentation is licenced under GPLv3.
+
 ## Active vaccum cup "tadpole" design ##
 ![manta_vaccum_tag_github](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/05be5ccb-5a90-4966-b3cb-92b85e30428a)
 
