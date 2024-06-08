@@ -1,5 +1,5 @@
 ## CERN OHL v1.2 ##
-# 2013-09-06 - CERN, Geneva, Switzerland #
+### 2013-09-06 - CERN, Geneva, Switzerland ###
 
 ## CERN Open Hardware Licence v1.2 ##
 
