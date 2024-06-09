@@ -23,13 +23,11 @@ Early iterations of the design utilised a modified commerical vaccum cup insert,
 # Manufacturing the Manta ray active vacuum tag #
 ## Version 1.02 ##
 
-We recommend that you inspect the bill of materials (BOM) necessary to build the tag, inspect the 3D printable assets, the CNC millable assets, and all of the necessary components required to develop and test the tag before proceeding. 
+We recommend that you inspect the [bill of materials (BOM)](https://github.com/arribada/manta-ray-active-vacuum-tag/blob/main/Hardware/BOM/Manta%20active%20vaccum%20tag%20BOM.xlsx) necessary to build the tag, inspect the 3D printable assets, the CNC millable assets, and all of the necessary components required to develop and test the tag before proceeding. 
 
 The tag consists of a 3D printable payload holder, typically printed in nylon (PA 11), attached to an ABS vaccum insert that are both printable and millable on suitable desktop 3D printers and mills (i.e. the Bambu X1 that supports nylon and the Carvera Desktop CNC). If you don't have access to suitable 3D printers or CNC machines the files can readily be printed and milled by third parties.
 
 All other required components, such as the vacuum cup, air hose, venturi vacuum generator and Prevost quick attachment adapter are noted in the BOM and can be purchased from multiple online retailers.
-
-The tag can be manufactured in 
 
 ## Step 1. Preparing the custom vaccum cup insert ##
 
