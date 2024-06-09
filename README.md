@@ -1,4 +1,4 @@
-# Manta ray active vacuum tag
+# Manta ray active vacuum tag #
 ## Version 1.02 | June 2024
 ![manta_tag](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/136ec232-e82c-4b59-bbe8-06c49197a670)
 
@@ -21,7 +21,7 @@ Early iterations of the design utilised a modified commerical vaccum cup insert,
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/f21fa3f8-925b-4340-a19b-fe4403c5a28f)
 
 # Manufacturing the Manta ray active vacuum tag #
-# Version 1.02"
+# Version 1.02 #
 
 We recommend that you inspect the bill of materials (BOM) necessary to build the tag, inspect the 3D printable assets, the CNC millable assets, and all of the necessary components required to develop and test the tag before proceeding. 
 
