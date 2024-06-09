@@ -94,9 +94,20 @@ Before tagging, test that your valves are clean and adequately tight as a loss o
 
 A standard air gun nozzle / convertor for scuba tanks works well to provide the compressed air source. [This is the air gun](https://www.diversdirect.com/p/quick-release-metal-air-blower-gun) utilised during our tests.
 
-### Stage 6 - Air hose valve to venturi ###
+### Stage 6 - Air hose valve and venturi valve ###
 
-Select a suitable valve to connect to your air gun's outlet that allows you to fit 8mm OD (outer diameter) and 6mm (inner diameter) tubing, as the tubing will need to fit 
+Select a suitable valve to connect to your air gun's outlet that allows you to fit 8mm OD (outer diameter) and 6mm (inner diameter) tubing, as the tubing will need to fit a G1/8 threaded valve on the venturi
+
+### Stage 7 - Air hose to venturi ###
+
+The air hose should have a G1/8 valve fitted to mate with the air supply in (E) threaded valve socket on the venturi.
+
+![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/17770c8a-8579-49ae-bd6f-a22fedddd7a4)
+
+### Stage 8 - Valve maintenance ###
+
+
+
 
 ## Step 4. (Experimental) Preparing the multi-jet fusion 3D printed pole mount head ##
 
