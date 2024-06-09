@@ -12,7 +12,7 @@ All hardware designs, files, assets and schematics in this repository are licenc
 ![manta_vaccum_tag_github](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/05be5ccb-5a90-4966-b3cb-92b85e30428a)
 
 ## Purpose ##
-This tag was developed to provide a non-invasive means of attaching biologging instruments to oceanic manta rays through by attaching a vaccum cup on the manta's skin. It is primarily intended for attachment in-water by scuba divers, although a pole-based attachment mechanism is under development. The pole-based method will provide a means to attaching the tag from a vessel when mantas are at the surface.
+The manta ray active vacuum tag was developed to provide a non-invasive means of attaching biologging instruments to oceanic manta rays by means of utilising a vaccum cup and active suction to attach biologging payloads to the manta's skin. It is primarily intended for attachment in-water by scuba divers, although a pole-based attachment mechanism is under development. Typical use cases involve attaching GPS/GNSS positioning instruments, accelerometers and other biologging apparatus. 
 
 The tag has been designed to fit Arribada's open source [Horizon ARTIC R2 Argos satellite / GNSS transmitter](https://arribada.org/horizon-gps-tracking/) to provide satellite positioning for recovery when on the surface. Other payloads, such as accelerometers, of optional VHF pingers can be fitted to either side of the tag's cylindrical mounting holes. 
 
