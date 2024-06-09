@@ -68,19 +68,45 @@ It's important to use a stainless steel Prevost coupler vs the standard variant 
 
 A pole attachment method using a modified bike break to depress the green button remotely is currently being design. This will enable the tag to be attached to manta rays from a boat within a few meters. Preparation of the current design has been described below.
 
-## Step 3. Preparing the multi-jet fusion 3D printed pole mount head ##
+## Step 3. Assembling and preparing the air system and vacuum components ##
 
-Print the pole head mount (see BOM) using MJF as the process and PA 11 as the material. PA 12 should also be suitable. Once printed, use a tapping kit to manually tag the top hole using an M9 x 1.25 tapping bit. Next, insert a 1/4" female screw adapter into the socket using pliers. 
+The following diagram illustrates each stage of the air system, identifying the positioning of vacuum components.
+
+![manta_ray_air_system_assembly_stages](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/e871ccb6-f7e6-451c-be50-13c66b2ba15d)
+
+### Stage 1 - Air tank ###
+
+A standard 232 Bar scuba diving pony air cylinder can be used to provide air pressure to the system. A pony bottle is well suited as it can be carried by a diver as a seperate cylinder when diving to attach the tag to the manta ray. 
+
+### Stage 2 - Air hose from cylinder to air gun ###
+
+Install a suitable air hose and tubing. Tubing length can be 1m in length as it will only need to provide adequate distance from the cylinder to the air gun held on an outstretched air of the diver. The diver will operate the air gun to provide compressed air, which will be reversed by the venturi generator creating suction to remove water from beneath the vaccum cup.
+
+### Stage 3 - Secure the air hose line ###
+
+Install or locate a suitable position for the air gun to be attached to the diver's BCD as the diver may be in the water for some time waiting to identify a suitable manta ray to tag. A quick release mechanism is recommended, enabling the diver to move freely in the water without the hose dragging.
+
+### Stage 4 - Tighten and maintain valves ###
+
+Before tagging, test that your valves are clean and adequately tight as a loss of pressure can affect the speed in which the tag can attached if the venturi is supplied with less pressure that is it expecting.
+
+### Stage 5 - Air gun ###
+
+A standard air gun nozzle / convertor for scuba tanks works well to provide the compressed air source. [This is the air gun](https://www.diversdirect.com/p/quick-release-metal-air-blower-gun) utilised during our tests.
+
+### Stage 6 - Air hose valve to venturi ###
+
+Select a suitable valve to connect to your air gun's outlet that allows you to fit 8mm OD (outer diameter) and 6mm (inner diameter) tubing, as the tubing will need to fit 
+
+## Step 4. (Experimental) Preparing the multi-jet fusion 3D printed pole mount head ##
+
+An optional 3D printed pole mount that fits the provost is available to trial. Print the pole head mount (see BOM) using MJF as the process and PA 11 as the material. PA 12 should also be suitable. Once printed, use a tapping kit to manually tag the top hole using an M9 x 1.25 tapping bit. Next, insert a 1/4" female screw adapter into the socket using pliers. 
 
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/735b4dfc-aba2-4b41-ae69-344309b92570)
 
 A stainless steel 360 degree swivel camera mount adapter can then be attached to the pole mount head and to a suitable telescopic boom pole that has a 1/4" thread embedded, such as the range of fiberglass poles from compositepoles.co.uk.
 
 To fit and seat the bicycle brakes, first slot the Prevost S1 coupler into the pole head slot. Use the grip indents to guide it into place. Then slow the two M8 x 60mm socket flanged button screws through the bottom holes and secure the brakes in place using 4 x M8 hexagon nuts to align the brake in place.
-
-## Step 4. Assembling the body of the tag and installing vacuum components ##
-
--
 
 ## Continued research ##
 
