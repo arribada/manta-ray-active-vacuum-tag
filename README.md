@@ -1,5 +1,5 @@
-# manta-ray-active-vacuum-tag
-
+# Manta ray active vacuum tag
+## Version 1.02 | June 2024
 ![manta_tag](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/136ec232-e82c-4b59-bbe8-06c49197a670)
 
 ## About ##
