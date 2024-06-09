@@ -20,7 +20,18 @@ Early iterations of the design utilised a modified commerical vaccum cup insert,
 
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/f21fa3f8-925b-4340-a19b-fe4403c5a28f)
 
-## Preparing the custom vaccum cup insert ##
+# Manufacturing the Manta ray active vacuum tag #
+# Version 1.02"
+
+We recommend that you inspect the bill of materials (BOM) necessary to build the tag, inspect the 3D printable assets, the CNC millable assets, and all of the necessary components required to develop and test the tag before proceeding. 
+
+The tag consists of a 3D printable payload holder, typically printed in nylon (PA 11), attached to an ABS vaccum insert that are both printable and millable on suitable desktop 3D printers and mills (i.e. the Bambu X1 that supports nylon and the Carvera Desktop CNC). If you don't have access to suitable 3D printers or CNC machines the files can readily be printed and milled by third parties.
+
+All other required components, such as the vacuum cup, air hose, venturi vacuum generator and Prevost quick attachment adapter are noted in the BOM and can be purchased from multiple online retailers.
+
+The tag can be manufactured in 
+
+## Step 1. Preparing the custom vaccum cup insert ##
 
 To reduce the overall weight of the tag and to increase buoyancy we developed a custom ABS vaccum cup insert, filled with pre-cut syntactic foam, thus essentially creating a positively buoyant vaccum insert that would replace the commerical off the shelf variant (described above) that was too heavy to utilise. All CNC STEP files can be found in the hardware folder of this repo.
 
@@ -38,7 +49,7 @@ The FiPA nitrile rubber vaccum cup we selected is designed for stacking partiall
 
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/70bb4b57-a766-4120-9486-88b3ad045970)
 
-## Preparing the multi-jet fusion 3D printed body ##
+## Step 2. Preparing the multi-jet fusion 3D printed body ##
 
 The body of the tag is constructed in two halves (all STEP files are available in the hardware folder of this repo). The material used is PA 12, using either selective laser sintering (SLS) or multi-jet fusion 3D printing processes to form the body. PA 12 is porous, but as we are attaching payloads seperately we don't need to worry about water ingress - instead the body forms a hydrodynamic structure in which to hold the payloads, syntactic foam and push water over the air hose coupler in the centre to minimise drag. 
 
@@ -54,7 +65,7 @@ It's important to use a stainless steel Prevost coupler vs the standard variant 
 
 A pole attachment method using a modified bike break to depress the green button remotely is currently being design. This will enable the tag to be attached to manta rays from a boat within a few meters. Preparation of the current design has been described below.
 
-## Preparing the multi-jet fusion 3D printed pole mount head ##
+## Step 3. Preparing the multi-jet fusion 3D printed pole mount head ##
 
 Print the pole head mount (see BOM) using MJF as the process and PA 11 as the material. PA 12 should also be suitable. Once printed, use a tapping kit to manually tag the top hole using an M9 x 1.25 tapping bit. Next, insert a 1/4" female screw adapter into the socket using pliers. 
 
@@ -63,6 +74,10 @@ Print the pole head mount (see BOM) using MJF as the process and PA 11 as the ma
 A stainless steel 360 degree swivel camera mount adapter can then be attached to the pole mount head and to a suitable telescopic boom pole that has a 1/4" thread embedded, such as the range of fiberglass poles from compositepoles.co.uk.
 
 To fit and seat the bicycle brakes, first slot the Prevost S1 coupler into the pole head slot. Use the grip indents to guide it into place. Then slow the two M8 x 60mm socket flanged button screws through the bottom holes and secure the brakes in place using 4 x M8 hexagon nuts to align the brake in place.
+
+## Step 4. Assembling the body of the tag and installing vacuum components ##
+
+-
 
 ## Continued research ##
 
