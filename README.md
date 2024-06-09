@@ -12,7 +12,11 @@ All hardware designs, files, assets and schematics in this repository are licenc
 ![manta_vaccum_tag_github](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/05be5ccb-5a90-4966-b3cb-92b85e30428a)
 
 ## Purpose ##
-This tag was developed to provide a non-invasive means of attaching biologging instruments to oceanic manta rays through by attaching a vaccum cup on the manta's skin. It is primarily intended for attachment in-water by scuba divers, although a pole-based attachment mechanism is under development. The pole-based method will provide a means to attaching the tag from a vessel when mantas are at the surface. 
+This tag was developed to provide a non-invasive means of attaching biologging instruments to oceanic manta rays through by attaching a vaccum cup on the manta's skin. It is primarily intended for attachment in-water by scuba divers, although a pole-based attachment mechanism is under development. The pole-based method will provide a means to attaching the tag from a vessel when mantas are at the surface.
+
+The tag has been designed to fit Arribada's open source [Horizon ARTIC R2 Argos satellite / GNSS transmitter](https://arribada.org/horizon-gps-tracking/) to provide satellite positioning for recovery when on the surface. Other payloads, such as accelerometers, of optional VHF pingers can be fitted to either side of the tag's cylindrical mounting holes. 
+
+The design files in this repository contain all of the components and necessary to build the physical tag. You are free to select your own electronics / payloads, or to use the Horizon transmitter which fits the tag natively.
 
 ## Description ##
 The design specification of the payload was to primarily generate a vaccum underwater, removing water and air trapped within a vaccum cup when applied to the surface of a target animal quickly and efficiently. To achieve this, the payload itself needed to be slightly positively buoyant to aid recovery after being a) mechanically vented through the use of a corrodable plug to fill the vaccum with water and thus detach, or b) retained in place via a watertight / airtight seal until otherwise vented via a mechanical process.
@@ -124,8 +128,12 @@ The prevost quick release S1 adapter requires 8mm tubing, so a reducer nipple is
 
 Connect the tubing to the adapter on the Prevost S1 and then connect the S1 to the tag's quick release adapter. You have now completed assembling the air system. By pressing the quick release button on the Prevost S1 the adapter will release the coupler and detach the tag. Pushing the Prevost back onto the tag's connector will re-attach the air system to the tag.
 
+## Step 4. Preparing and installing the buoyancy aid (closed cell foam).
+
+As noted in Step 1, the use of syntatic foam is necessary to generate the buoyancy required for the tag to float when dislodged from the manta for recovery. 
+
 # Optional pole release mechanism #
-## Step 4. (Experimental) Preparing the multi-jet fusion 3D printed pole mount head ##
+## Step 5. (Experimental) Preparing the multi-jet fusion 3D printed pole mount head ##
 
 An optional 3D printed pole mount that fits the provost is available to trial. Print the pole head mount (see BOM) using MJF as the process and PA 11 as the material. PA 12 should also be suitable. Once printed, use a tapping kit to manually tag the top hole using an M9 x 1.25 tapping bit. Next, insert a 1/4" female screw adapter into the socket using pliers. 
 
