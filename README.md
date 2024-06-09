@@ -128,7 +128,7 @@ The prevost quick release S1 adapter requires 8mm tubing, so a reducer nipple is
 
 Connect the tubing to the adapter on the Prevost S1 and then connect the S1 to the tag's quick release adapter. You have now completed assembling the air system. By pressing the quick release button on the Prevost S1 the adapter will release the coupler and detach the tag. Pushing the Prevost back onto the tag's connector will re-attach the air system to the tag.
 
-## Step 4. Preparing and installing the buoyancy aid (closed cell foam).
+## Step 4. Preparing and installing the buoyancy aid (closed cell foam)
 
 As noted in Step 1, the use of syntactic foam is necessary to generate the buoyancy required for the tag to float when dislodged from the manta for recovery. The tail of the tag lifts the tip up when on the water's surface, pointing any antennas you attach (i.e. Argos satellite antenna) towards the sky. The heavier vacuum disk and Prevost S1 coupler point down. Syntactic form should be added to the cavity of the tag's body and a thin layer applied inside the vacuum disk insert (see Step 1) to reduce overall weight. The cutting guide below identifies the dimensions of the foam required to cut and fill the cavity. It is recommended to print a template file using a 3D printer and cut / sandpaper Subsea Buoyancy Foam (R-3318) to fill the cavity.
 
