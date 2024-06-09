@@ -130,7 +130,12 @@ Connect the tubing to the adapter on the Prevost S1 and then connect the S1 to t
 
 ## Step 4. Preparing and installing the buoyancy aid (closed cell foam).
 
-As noted in Step 1, the use of syntatic foam is necessary to generate the buoyancy required for the tag to float when dislodged from the manta for recovery. 
+As noted in Step 1, the use of syntactic foam is necessary to generate the buoyancy required for the tag to float when dislodged from the manta for recovery. The tail of the tag lifts the tip up when on the water's surface, pointing any antennas you attach (i.e. Argos satellite antenna) towards the sky. The heavier vacuum disk and Prevost S1 coupler point down. Syntactic form should be added to the cavity of the tag's body and a thin layer applied inside the vacuum disk insert (see Step 1) to reduce overall weight. The cutting guide below identifies the dimensions of the foam required to cut and fill the cavity. It is recommended to print a template file using a 3D printer and cut / sandpaper Subsea Buoyancy Foam (R-3318) to fill the cavity.
+
+![Foam_cutting_template_bottom](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/bb202f7a-a018-4efd-ad75-a430cf5353e0)
+
+![Foam_cutting_template_top](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/164018b3-ab45-4b5c-aed3-4302a24e5d1d)
+
 
 # Optional pole release mechanism #
 ## Step 5. (Experimental) Preparing the multi-jet fusion 3D printed pole mount head ##
