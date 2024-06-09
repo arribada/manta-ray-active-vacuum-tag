@@ -104,11 +104,27 @@ The air hose should have a G1/8 valve fitted to mate with the air supply in (E) 
 
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/17770c8a-8579-49ae-bd6f-a22fedddd7a4)
 
-### Stage 8 - Valve maintenance ###
+### Stage 8 - Valve maintenance, air in ###
 
+Salt will collect in the valves of the venturi vacuum and will ultimately reduce pressure. Ensure tubes and the venturi's valves are cleaned after deployment in saltwater.
 
+### Stage 9 - Venturi (Vacuum generator)
 
+Connect the air hose from the air gun to valve E (G1/8) and connect another hose from the vacuum port J (G1/4) using the 10mm ID, 12mm OD tubing. The venturi will create a vacuum and remove air / liquid through the exhaust when over 3.5 bar of pressure from a compressed air source is applied. You can test that your venturi is working by applying compressed air and observing the tag sink down on a flat surface (i.e. a table) as air is removed from under the vacuum cup. In water you will see air bubbles escaping from the exhaust. The black exhaust port is a silencer used with air and can be removed if used in water as it does not function in the same way when used with liquids.
 
+### Stage 10 - Valve maintenance, water out ###
+
+Salt will collect in the valves of the venturi vacuum and will ultimately reduce pressure. Ensure tubes and the venturi's valves are cleaned after deployment in saltwater.
+
+### Stage 11 - Step down adapter ###
+
+The prevost quick release S1 adapter requires 8mm tubing, so a reducer nipple is required to step down the 12mm tubing (OD) from the venturi G1/4 valve socket. Connect the reducer nipple inline using the Festo adapter.
+
+### Stage 12 - Connect tubing to the Prevost S1 quick release coupler ###
+
+Connect the tubing to the adapter on the Prevost S1 and then connect the S1 to the tag's quick release adapter. You have now completed assembling the air system. By pressing the quick release button on the Prevost S1 the adapter will release the coupler and detach the tag. Pushing the Prevost back onto the tag's connector will re-attach the air system to the tag.
+
+# Optional pole release mechanism #
 ## Step 4. (Experimental) Preparing the multi-jet fusion 3D printed pole mount head ##
 
 An optional 3D printed pole mount that fits the provost is available to trial. Print the pole head mount (see BOM) using MJF as the process and PA 11 as the material. PA 12 should also be suitable. Once printed, use a tapping kit to manually tag the top hole using an M9 x 1.25 tapping bit. Next, insert a 1/4" female screw adapter into the socket using pliers. 
