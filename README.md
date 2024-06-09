@@ -11,6 +11,9 @@ All hardware designs, files, assets and schematics in this repository are licenc
 ## Active vaccum cup "tadpole" design ##
 ![manta_vaccum_tag_github](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/05be5ccb-5a90-4966-b3cb-92b85e30428a)
 
+## Purpose ##
+This tag was developed to provide a non-invasive means of attaching biologging instruments to oceanic manta rays through by attaching a vaccum cup on the manta's skin. It is primarily intended for attachment in-water by scuba divers, although a pole-based attachment mechanism is under development. The pole-based method will provide a means to attaching the tag from a vessel when mantas are at the surface. 
+
 ## Description ##
 The design specification of the payload was to primarily generate a vaccum underwater, removing water and air trapped within a vaccum cup when applied to the surface of a target animal quickly and efficiently. To achieve this, the payload itself needed to be slightly positively buoyant to aid recovery after being a) mechanically vented through the use of a corrodable plug to fill the vaccum with water and thus detach, or b) retained in place via a watertight / airtight seal until otherwise vented via a mechanical process.
 
