@@ -31,7 +31,9 @@ All other required components, such as the vacuum cup, air hose, venturi vacuum 
 
 ## Step 1. Preparing the custom vaccum cup insert ##
 
-To reduce the overall weight of the tag and to increase buoyancy we developed a custom ABS vaccum cup insert, filled with pre-cut syntactic foam, thus essentially creating a positively buoyant vaccum insert that would replace the commerical off the shelf variant (described above) that was too heavy to utilise. All CNC STEP files can be found in the hardware folder of this repo.
+The tag was designed to attach to and support the use of a Fipa ref.102.160.380.4 vacuum cup, a 160mm diameter cup originally designed to lift rough materials (sawn wood or materials with rough or uneven surfaces). Fipa cups can be purchased from any Fipa authorised supplier. We purchased our cups from Hennig UK Ltd, who selected the cup based on our requirements - size, grip and suitability for us to redesign a lighter open source vacuum insert to replace the metal insert that is typically used with standard vacuum machinery.
+
+To reduce the overall weight of the tag and to increase buoyancy it was necessary to develop a custom ABS vaccum cup insert, filled with pre-cut syntactic foam, thus essentially creating a positively buoyant vaccum insert to replace the metal commerical off-the-shelf variant (described above) that was too heavy to utilise. Our re-designed insert fits the Fipa ref.102.160.380.4 vacuum cup and can be CNC milled in ABS using the supplied STEP files in the [/hardware](https://github.com/arribada/manta-ray-active-vacuum-tag/tree/main/Hardware) folder of this repository.
 
 ![image](https://github.com/arribada/manta-ray-active-vacuum-tag/assets/6997400/64efab61-bb60-437e-abba-72799c4fda11)
 
