@@ -20,7 +20,7 @@ The design files in this repository contain all of the components and necessary 
 
 ## Design
 
-To get started with the design, head to the [hardware](hardware) directory.
+To get started with the design, head to the [hardware](https://github.com/arribada/manta-ray-active-vacuum-tag/tree/main/Hardware) directory.
 Here you will find the assembly instructions and design files for the tag.
 
 ## Changelog
